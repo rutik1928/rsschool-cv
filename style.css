@@ -21,6 +21,10 @@ body {
     overflow: hidden;
 }
 
+.top {
+    background: linear-gradient(135deg, #667eea 0%, #a950b3 100%);
+}
+
 section {
     margin-bottom: 30px;
 }
@@ -45,6 +49,10 @@ section:last-child {
     font-size: 0.9em;
     font-weight: 500;
     text-align: center;
+}
+
+h1{
+    color: black;
 }
 
 h2 {
